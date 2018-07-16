@@ -1,2 +1,2 @@
 # Sample-RESTful
-sample
+sample prject for beginners!
